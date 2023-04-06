@@ -19,7 +19,9 @@ Grandes Telas: acima de 1366px
    }
    
     #login{
-        width: 80vw
+        width: 80vw;
+        height: 300px;
+        
     }
 
     #imagem {
@@ -53,6 +55,7 @@ Grandes Telas: acima de 1366px
 
     #login {
         width: 950px;
+        height: 340px;
 }
     #imagem {
         float: right;
@@ -70,6 +73,7 @@ Grandes Telas: acima de 1366px
 }
     #formulario p{
          font-size: 1.2em;
+         margin: 10px;
 }
 
 }
