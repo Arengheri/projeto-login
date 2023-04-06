@@ -36,9 +36,11 @@ Grandes Telas: acima de 1366px
 
     #formulario h1 {
         font-size: 1.6em;
+        text-align: center;
     }
 
     #formulario p{
+        text-align: center;
         font-size: 1em;
 }
 
